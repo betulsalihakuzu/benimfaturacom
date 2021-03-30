@@ -1,0 +1,83 @@
+/*................ Kampanya Tablo..................................*/
+
+#kampanya table,th,td{
+
+	border: 1px;
+	border-radius: 8px;
+	text-align: center;
+
+}
+
+
+#kampanya table tr{
+
+	margin-top: 500px;
+	border-spacing: 50px;
+
+}
+
+#kampanya table{
+	border-spacing: 5px;
+	border-collapse: separate;
+	width: 90%;
+	margin: auto;
+}
+
+@media screen and (max-width: 768px) {
+    #kampanya table th {
+        font-size: 7px;
+    }
+}
+
+
+
+
+/*................ Kampanya Tablo..................................*/
+
+
+
+/*................ Kampanya Text..................................*/
+#images{
+    margin-top:-95px;
+}
+#baslik table{
+    margin-top:10%;
+
+
+}
+
+.kampanya-title{
+
+text-align: center;
+  font-size: 30px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-family: "Poppins", sans-serif;
+  color: #2a2c39;
+  margin-top: 2%;
+}
+
+.kampanya-aciklama p {
+	margin-left: 4%;
+	margin-top: 2%;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-family: "Poppins", sans-serif;
+  color: #2a2c39;
+}
+
+.list{
+margin-left: 3%;
+}
+
+
+#images img{
+	width: 100%;
+    margin-top: 2%;
+}
+
+/*................ Kampanya Text..................................*/
+
+
+
